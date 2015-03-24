@@ -1,0 +1,21 @@
+{
+  "main": "index.html",
+  "name": "nw-gmail",
+  "description": "Gmail for node-webkit.",
+  "version": "0.1.0",
+  "keywords": [ "gmail", "node-webkit" ],
+  "window": {
+    "title": "Gmail for node-webkit",
+    "icon": "assets/icon/gmail.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 1280,
+    "height": 720,
+    "position": "mouse",
+    "min_width": 600,
+    "min_height": 400
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
